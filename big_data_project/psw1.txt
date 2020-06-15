@@ -1,0 +1,62 @@
+1°grupo dovrebbe avere massimo grado di variabilità => 4 psw
+
+2°gruppo minimo grado di variabilità, non sono contenuti in tutti i file	=> 2 psw
+
+3°gruppo sono presenti solo in alcuni file, grado variabilità medio	=> 3 psw
+
+zzzz@zzzz.it comparirà 1 sola volta quindi non verrà tenuto in considerazione
+//-----------------------GRUOPPI IN ORDINE--------
+aaaa@aaaa.it:		a1516116	wererfecerfcrwbtht 		escwer3151@#1162			5gytgyttgggty
+bbbb@bbbb.com:		ede6161		f						ioiumikynujn351356183		refr15156rttr
+
+cccc@cccc.it:		65416cdd	6541dd
+dddd@dddd.com:		ef31655		ef31655ffr
+eeee@eeee.it:		ewed6656	ewed6656
+
+ffff@ffff.it:		esrbyuewedhbc	esrbyuedhbc		esrbyuewedh
+gggg@gggg.it:		eieon351666de	eieon35666de	eieon351666def
+hhhh@hhhh.it:		bediend651533	bed				beercjknec77
+iiii@iiii.it:		eavefarc65152	eavqeqewdew52	wrevrfni72566
+
+zzzz@zzzz.it:		wkdhbwdibxmwe
+
+//--------------------------FILES-------------------------
+
+aaaa@aaaa.it:a1516116
+bbbb@bbbb.com:ede6161
+cccc@cccc.it:65416cdd
+dddd@dddd.com:ef31655
+eeee@eeee.it:ewed6656
+ffff@ffff.it:esrbyuewedhbc
+gggg@gggg.it:eieon351666de
+hhhh@hhhh.it:bediend651533
+iiii@iiii.it:eavefarc65152
+zzzz@zzzz.it:wkdhbwdibxmwe
+aaaa@aaaa.it:wererfecerfcrwbtht
+hhhh@hhhh.it:beercjknec77
+iiii@iiii.it:wrevrfni72566
+
+
+//--------------------------
+
+bbbb@bbbb.com:f
+aaaa@aaaa.it:escwer3151@#1162
+bbbb@bbbb.com:ioiumikynujn351356183
+cccc@cccc.it:6541dd
+ffff@ffff.it:esrbyuedhbc
+gggg@gggg.it:eieon35666de
+hhhh@hhhh.it:bed
+iiii@iiii.it:eavqeqewdew52
+ffff@ffff.it:esrbyuewedh
+gggg@gggg.it:eieon351666def
+
+
+
+//--------------------------
+
+aaaa@aaaa.it:5gytgyttgggty
+bbbb@bbbb.com:refr15156rttr
+dddd@dddd.com:ef31655ffr
+eeee@eeee.it:ewed6656
+
+
